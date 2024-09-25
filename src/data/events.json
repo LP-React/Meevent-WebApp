@@ -1,0 +1,211 @@
+[
+    {
+        "code": 1,
+        "title": "Conferencia Amazon",
+        "image": "https://i.pinimg.com/564x/7f/57/20/7f572021423ab45abe73d0ba07be9c02.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis excepturi, deleniti quos animi in at cupiditate nesciunt harum hic. Rerum vero ratione voluptates necessitatibus consequatur aut molestiae, quod inventore rem? ...",
+        "autor": "Microsoft",
+        "timeStart" : "2024-07-26 10:30:00",
+        "timeEnd" : "2024-07-27 18:00:00",
+        "location": "Lima, Barranco - Av. Balta 137",
+        "price": "19.90"
+    },
+    {
+        "code": 2,
+        "title": "Conferencia Facebook",
+        "image": "https://i.pinimg.com/564x/5d/8b/d7/5d8bd713204666dc3cd6a5f8bfb2fdb2.jpg",
+        "description": "Conferencia sobre redes sociales y marketing digital. No te lo pierdas!",
+        "autor": "Facebook",
+        "timeStart" : "2024-06-29 10:30:00",
+        "timeEnd" : "2024-06-27 18:00:00",
+        "location": "Online",
+        "price": "Free"
+    },
+    {
+        "code": 3,
+        "title": "Conferencia X",
+        "image": "https://i.pinimg.com/564x/77/50/22/77502273d2a28bf26fb00644bde40381.jpg",
+        "description": "Evento educativo sobre tecnología y desarrollo de software.",
+        "autor": "Universidad X",
+        "timeStart" : "2024-06-27 10:30:00",
+        "timeEnd" : "2024-06-27 18:00:00",
+        "location": "Lima, San Isidro - Av. Javier Prado 1234",
+        "price": "25.00"
+    },
+    {
+        "code": 4,
+        "title": "Conferencia CIBERTEC",
+        "image": "https://i.pinimg.com/564x/e3/78/3e/e3783e4d441d94099772c2383bb98013.jpg",
+        "description": "Conferencia sobre ciberseguridad y protección de datos.",
+        "autor": "CIBERTEC",
+        "timeStart" : "2024-07-05 10:30:00",
+        "timeEnd" : "2024-07-05 18:00:00",
+        "location": "Lima, Miraflores - Av. Pardo y Aliaga 123",
+        "price": "15.00"
+    },
+    {
+        "code": 5,
+        "title": "Conferencia Facebook",
+        "image": "https://i.pinimg.com/236x/af/21/4b/af214bd31d1f1fa3724d71eb7c3e0a4c.jpg",
+        "description": "Conferencia sobre redes sociales y marketing digital. No te lo pierdas!",
+        "autor": "Facebook",
+        "timeStart" : "2024-07-05 10:30:00",
+        "timeEnd" : "2024-07-05 18:00:00",
+        "location": "Online",
+        "price": "Free"
+    },
+    {
+        "code": 9,
+        "title": "Conferencia Google",
+        "image": "https://i.pinimg.com/564x/4d/a2/ae/4da2ae6b9e6a0c1bc49e26904de988d5.jpg",
+        "description": "Evento sobre las últimas tecnologías de Google y su impacto en el mundo digital.",
+        "autor": "Google",
+        "timeStart" : "2024-08-29 10:30:00",
+        "timeEnd" : "2024-08-29 18:00:00",
+        "location": "Online",
+        "price": "Free"
+    },
+    {
+        "code": 10,
+        "title": "Conferencia Apple",
+        "image": "https://i.pinimg.com/564x/5d/6c/79/5d6c79457afcec11876f26f599dd82e9.jpg",
+        "description": "Presentación de las últimas innovaciones en hardware y software de Apple.",
+        "autor": "Apple",
+        "timeStart" : "2024-09-30 10:30:00",
+        "timeEnd" : "2024-09-30 18:00:00",
+        "location": "San Francisco, CA - Apple Park",
+        "price": "49.99"
+    },
+    {
+        "code": 11,
+        "title": "Conferencia IBM",
+        "image": "https://i.pinimg.com/564x/a1/56/b5/a156b5fe8db00184cd2a29c7ed9c55f0.jpg",
+        "description": "Discusión sobre inteligencia artificial y soluciones en la nube.",
+        "autor": "IBM",
+        "timeStart" : "2024-07-02 10:30:00",
+        "timeEnd" : "2024-07-02 18:00:00",
+        "location": "New York, NY - IBM Building",
+        "price": "29.99"
+    },
+    {
+        "code": 12,
+        "title": "Conferencia Twitter",
+        "image": "https://i.pinimg.com/564x/62/e2/83/62e283d44e170aa3e3696fc472316fcb.jpg",
+        "description": "Explora las nuevas tendencias en redes sociales y comunicación digital.",
+        "autor": "Twitter",
+        "timeStart" : "2024-09-11 10:30:00",
+        "timeEnd" : "2024-09-11 18:00:00",
+        "location": "San Francisco, CA - Twitter HQ",
+        "price": "Free"
+    },
+    {
+        "code": 13,
+        "title": "Conferencia Netflix",
+        "image": "https://i.pinimg.com/564x/df/e1/b1/dfe1b1d8cc882362e6ce0d21446c11b9.jpg",
+        "description": "Evento sobre la evolución del entretenimiento digital y las plataformas de streaming.",
+        "autor": "Netflix",
+        "timeStart" : "2024-09-11 10:30:00",
+        "timeEnd" : "2024-09-11 18:00:00",
+        "location": "Los Angeles, CA - Netflix Studios",
+        "price": "39.99"
+    },
+    {
+        "code": 14,
+        "title": "Conferencia Intel",
+        "image": "https://i.pinimg.com/564x/af/aa/ba/afaaba176a0c00b1d5bd1b35a6d6a072.jpg",
+        "description": "Descubre las últimas innovaciones en tecnología y procesadores de Intel.",
+        "autor": "Intel",
+        "timeStart" : "2024-09-11 10:30:00",
+        "timeEnd" : "2024-09-11 18:00:00",
+        "location": "Lima, Miraflores - Av. Pardo y Aliaga 456",
+        "price": "Free"
+    },
+    {
+        "code": 15,
+        "title": "Conferencia Oracle",
+        "image": "https://i.pinimg.com/564x/12/b6/32/12b632a5d766e0a7860c91e1f40b28da.jpg",
+        "description": "Presentación de soluciones empresariales y cloud computing de Oracle.",
+        "autor": "Oracle",
+        "timeStart" : "2024-06-2 10:30:00",
+        "timeEnd" : "2024-06-2 18:00:00",
+        "location": "Lima, San Isidro - Av. Conquistadores 890",
+        "price": "29.99"
+    },
+    {
+        "code": 16,
+        "title": "Conferencia Adobe",
+        "image": "https://i.pinimg.com/564x/87/4c/c5/874cc5b5530b927066f62bf02fe8a245.jpg",
+        "description": "Explora las últimas herramientas creativas y de diseño de Adobe.",
+        "autor": "Adobe",
+        "timeStart" : "2024-06-2 10:30:00",
+        "timeEnd" : "2024-06-2 18:00:00",
+        "location": "Lima, San Borja - Av. Aviación 1234",
+        "price": "49.99"
+    },
+    {
+        "code": 17,
+        "title": "Conferencia Huawei",
+        "image": "https://i.pinimg.com/564x/2b/57/6f/2b576f90ea5ae2cd5e404deb486bf9b6.jpg",
+        "description": "Innovaciones en telecomunicaciones y redes móviles de Huawei.",
+        "autor": "Huawei",
+        "timeStart" : "2024-10-2 10:30:00",
+        "timeEnd" : "2024-10-2 18:00:00",
+        "location": "Lima, Surco - Av. El Polo 789",
+        "price": "Free"
+    },
+    {
+        "code": 18,
+        "title": "Conferencia SpaceX",
+        "image": "https://i.pinimg.com/564x/a6/cf/3b/a6cf3b59fb6094cd431710fd12f5bb2b.jpg",
+        "description": "Exploración espacial y los próximos pasos de SpaceX en la conquista de Marte.",
+        "autor": "SpaceX",
+        "timeStart" : "2024-07-22 10:30:00",
+        "timeEnd" : "2024-07-22 18:00:00",
+        "location": "Lima, Magdalena del Mar - Av. Brasil 567",
+        "price": "39.99"
+    },
+    {
+        "code": 19,
+        "title": "Conferencia Tesla",
+        "image": "https://i.pinimg.com/564x/df/ba/3f/dfba3f05c73292bd5e2fb267fd59952d.jpg",
+        "description": "Visión del futuro de la movilidad eléctrica y energía sostenible por Tesla.",
+        "autor": "Tesla",
+        "timeStart" : "2024-09-27 10:30:00",
+        "timeEnd" : "2024-09-27 18:00:00",
+        "location": "Lima, Miraflores - Av. Larco 987",
+        "price": "59.99"
+    },
+    {
+        "code": 20,
+        "title": "Conferencia Spotify",
+        "image": "https://i.pinimg.com/564x/4a/69/0a/4a690ab7f1a6174d2b198393ef37197e.jpg",
+        "description": "El futuro de la música digital y las tendencias de consumo en Spotify.",
+        "autor": "Spotify",
+        "timeStart" : "2024-07-12 10:30:00",
+        "timeEnd" : "2024-07-12 18:00:00",
+        "location": "Lima, San Miguel - Av. La Marina 2345",
+        "price": "29.99"
+    },
+    {
+        "code": 21,
+        "title": "Conferencia Xiaomi",
+        "image": "https://i.pinimg.com/564x/43/74/f6/4374f682b90a561de32f6fed10e88d63.jpg",
+        "description": "Innovaciones en tecnología móvil y dispositivos inteligentes de Xiaomi.",
+        "autor": "Xiaomi",
+        "timeStart" : "2024-08-17 10:30:00",
+        "timeEnd" : "2024-08-17 18:00:00",
+        "location": "Lima, La Molina - Av. Javier Prado Este 789",
+        "price": "19.99"
+    },
+    {
+        "code": 24,
+        "title": "Conferencia Samsung",
+        "image": "https://i.pinimg.com/736x/83/58/f6/8358f6336550a383bb6b4e3ff8241a5f.jpg",
+        "description": "Presentación de nuevos dispositivos y tecnología de Samsung.",
+        "autor": "Samsung",
+        "timeStart" : "2024-06-26 10:30:00",
+        "timeEnd" : "2024-06-26 18:00:00",
+        "location": "Lima, Surco - Av. Encalada 890",
+        "price": "Free"
+    }
+]
